@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=HeightAnalyzer
+comment0.text=\n\ This\ program\ will\ perform\ some\ \n\ basic\ analysis\ on\ a\ set\ of\ \n\ values\ representing\ the\ \n\ heights\ of\ a\ group\ of\ people\ \n\ in\ inches\n\n\ @author\ (Andrew\ Choi)\n\ @version\ (03.24.2020)\n
+comment1.params=
+comment1.target=void\ analyze()
+comment1.text=\n\ \n
+comment2.params=in
+comment2.target=int\ getMin(java.util.Scanner)
+comment2.text=\n\ Finds\ and\ returns\ the\ lowest\ value\ in\ a\ file.\n\ @param\ Scanner\ the\ file\ values.\n\ @return\ the\ lowest\ value\ in\ the\ scanner.\n
+comment3.params=in
+comment3.target=int\ getMax(java.util.Scanner)
+comment3.text=\n\ Finds\ and\ returns\ the\ largest\ value\ in\ a\ file.\n\ @param\ Scanner\ the\ file\ values.\n\ @return\ the\ lowest\ value\ in\ the\ scanner.\n
+comment4.params=input
+comment4.target=void\ getAverage(java.util.Scanner)
+comment4.text=\n\ Finds\ and\ returns\ the\ average\ of\ value\ in\ a\ file.\n\ @param\ Scanner\ the\ file\ values.\n\ @return\ the\ lowest\ value\ in\ the\ scanner.\n
+comment5.params=input\ average
+comment5.target=void\ getMax(java.util.Scanner,\ double)
+comment5.text=\n\ \n
+numComments=6
